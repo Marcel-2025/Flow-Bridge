@@ -1,4 +1,6 @@
-# FlowBridge Pro – GitHub Pages
-Statische DE/EN-Landingpage. Dateien in das Repository-Root kopieren und GitHub Pages auf Branch / (root) konfigurieren. `index.html` ist Deutsch, `en.html` Englisch. Kein Build nötig.
+# FlowBridge – GitHub Pages
+Statische Landingpage auf Deutsch (`index.html`) und Englisch (`en.html`), dazu Datenschutzerklärung und Impressum. Kein Build nötig, keine externen Skripte, Schriften oder Tracker.
 
-Vor Livegang: echte Downloads und Play-Link eintragen, Buttons ersetzen, Checkout prüfen, Preis bestätigen, Operator-/Datenschutzseiten vervollständigen, UI-Konzepte durch echte Screenshots ersetzen, Plattformfunktionen anhand getesteter Builds verifizieren. Keine Produkt- oder Kaufbehauptung ohne Freigabe. Die Grafiken sind lokale Assets; keine externen Tracker.
+Stand 20.11.2026: Texte, Funktionsliste und Bilder entsprechen Android 1.1.3 und Desktop 0.3.1. Die Bilder in `assets/` sind echte Ansichten der Android-App mit Beispieldaten.
+
+Noch offen: Straße und Hausnummer im Impressum, öffentliche Download- und Store-Links, Preise.
